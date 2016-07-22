@@ -1,6 +1,11 @@
 /* CSS Tags for Michael's Porfolio Site */
 
 
+nav {
+    background-color: blue;
+    font-color: #fff;
+}
+
 
 body {
     background-color: #000080;
